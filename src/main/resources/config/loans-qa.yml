@@ -1,5 +1,5 @@
 build:
-  info: "2.31.42"
+  version: "2.31.42"
 
 loans:
   message: "Welcome to Eazybank loans related qa APIs"

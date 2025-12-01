@@ -1,5 +1,5 @@
 build:
-  info: 2.9.4
+  version: 2.9.4
 
 cards:
   message: "Welcome to Eazybank cards related qa APIs"

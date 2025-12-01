@@ -1,5 +1,5 @@
 build:
-  info: 2.45.3
+  version: 2.45.3
 
 cards:
   message: "Welcome to Eazybank cards related prod APIs"
