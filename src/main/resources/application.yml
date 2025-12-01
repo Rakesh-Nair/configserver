@@ -22,3 +22,15 @@ server:
 
 encrypt:
   key: "DJALDKSOW823LS94WLS94LS04LSA31"
+
+management:
+  endpoint:
+    web:
+      exposure:
+        include: "*"
+
+  rabbitmq:
+    host: "localhost"
+    port: 5672
+    username: "guest"
+    password: "guest"
